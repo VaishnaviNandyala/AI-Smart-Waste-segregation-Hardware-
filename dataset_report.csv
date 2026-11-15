@@ -1,0 +1,13 @@
+Split,Class,Valid Images,Invalid Images
+train,plastic,337,0
+train,paper,697,0
+train,metal,287,0
+train,organic,573,0
+validation,plastic,72,0
+validation,paper,150,0
+validation,metal,61,0
+validation,organic,123,0
+test,plastic,73,0
+test,paper,150,0
+test,metal,62,0
+test,organic,123,0
